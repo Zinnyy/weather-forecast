@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/weather"
+  status = 200
